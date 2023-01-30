@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shashi Kiran</h1>
-<h3 align="center">Well, for starters I love to code! I'm a Medical Electronics graduate who is into building Deep learning and Machine learning models. I also build some UI's in order to showcase my projects. Now, I'm currently working on building my Github repos and working on that. WILL UPDATE THIS BIO ONCE I'm DONE WITH BUILDING MY REPOS</h3>
+<h3 align="center">Well, for starters I love to code! I'm a Medical Electronics graduate who is into medical image analysis; building Deep learning and Machine learning models. I also build some UI's in order to showcase my projects. Now, I'm currently working on building my Github repos and working on that. WILL UPDATE THIS BIO ONCE I'm DONE WITH BUILDING MY REPOS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shashi-tesla&label=Profile%20views&color=0e75b6&style=flat" alt="shashi-tesla" /> </p>
 
